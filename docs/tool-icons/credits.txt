@@ -1,0 +1,44 @@
+Tool icon sources · Research Handbook
+Updated: 2026-09-04
+
+Product marks identify the corresponding tools. Their original proportions and colours are preserved. The functional symbols used for Skills are not project logos.
+
+ChatGPT — OpenAI
+Source: installed OpenAI desktop app icon (bundle identifier com.openai.codex, version 26.901.20858), converted from ICNS to PNG and resized.
+Brand reference: https://openai.com/brand/
+
+Claude — Anthropic
+Source: https://anthropic.com/press-kit
+Archive entry: Anthropic media resources/Anthropic logos/Claude logos/4 Claude icon/SVG/ClaudeIcon-Rounded.svg
+
+Git — Jason Long
+Source: https://git-scm.com/community/logos
+Original asset: https://raw.githubusercontent.com/git/git-scm.com/gh-pages/static/images/logos/downloads/Git-Icon-1788C.svg
+License: Creative Commons Attribution 3.0 Unported (CC BY 3.0)
+https://creativecommons.org/licenses/by/3.0/
+No changes to the SVG.
+
+GitHub — GitHub
+https://github.githubassets.com/favicons/favicon.svg
+
+Overleaf — Overleaf
+https://cdn.overleaf.com/favicon.svg
+
+Zotero — Corporation for Digital Scholarship
+https://raw.githubusercontent.com/zotero/zotero/main/app/linux/icons/icon128.png
+
+Better BibTeX — retorquere
+https://retorque.re/zotero-better-bibtex/better-bibtex.ico
+Converted from ICO to PNG.
+
+Knows — OniReimu
+https://raw.githubusercontent.com/OniReimu/Knows/main/artifacts/icon.svg
+
+TaskBoard — DELONG-L
+Source: TaskBoard project's static/icons/favicon.svg, copied without modification.
+Service: https://rsboard.utscyber.com/
+The repository is private; only its existing app icon is included here.
+
+Functional symbols — Lucide, ISC License
+https://lucide.dev/license
+Rendered through the project's existing lucide-react dependency.
