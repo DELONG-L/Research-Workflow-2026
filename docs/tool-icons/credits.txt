@@ -34,9 +34,6 @@ Converted from ICO to PNG.
 Knows — OniReimu
 https://raw.githubusercontent.com/OniReimu/Knows/main/artifacts/icon.svg
 
-TaskBoard — DELONG-L
-Source: TaskBoard project's static/icons/favicon.svg, copied without modification.
-Service: https://rsboard.utscyber.com/
 The repository is private; only its existing app icon is included here.
 
 Functional symbols — Lucide, ISC License

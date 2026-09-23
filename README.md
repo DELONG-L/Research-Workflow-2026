@@ -1,10 +1,21 @@
 # Research in 2026
 
-这是科研工作流手册的公开静态镜像，由 GitHub Pages 托管。
+科研工作流公开手册，包含九章：工具与项目管理、文献与实验、写作与协作。
 
-- 在线阅读：https://delong-l.github.io/Research-Workflow-2026/
-- 完整主站：https://research-workflow-2026.uxser2024.chatgpt.site/
+在线阅读：https://delong-l.github.io/Research-Workflow-2026/
 
-第 3 章“TaskBoard 与组内协作”和第 7 章“计算资源”需要访问码验证，因此不包含在这个公开仓库中。对应入口会转到主站完成验证。
+这是独立的静态网站，不需要账号、访问码或服务器端服务。仓库中的 `src/` 保存可编辑的公开页面、样式、字体和图片；`docs/` 是 GitHub Pages 发布目录。
 
-仓库只保存公开页面的静态产物，不包含站点的服务器端代码、访问码、受保护章节正文或组内配置。
+## 本地修改与构建
+
+需要 Node.js 22.13 或更新版本。
+
+```sh
+npm ci
+npm run build
+npm run check
+```
+
+修改 `src/pages/` 中的页面和 `src/assets/` 中的样式。构建只读取本仓库内容，不抓取其他站点，并自动重建 Pagefind 搜索索引。
+
+发布前检查本地效果，将源码与生成后的 `docs/` 一起提交。GitHub Pages 使用 `main` 分支的 `/docs` 目录。
