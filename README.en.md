@@ -16,7 +16,7 @@ The handbook introduces ways to use ChatGPT, Skills, Zotero, Git, LaTeX, and Ove
 
 **[Read the handbook →][handbook]** · [Browse all chapters][chapters] · [Search the handbook][search] · [Tools and sources][resources]
 
-[![Research workflow handbook reading interface](previews/handbook.jpg)][handbook]
+[Preview the Chinese-language handbook interface](previews/handbook.jpg)
 
 The website content is currently in Chinese. This repository provides both Chinese and English READMEs.
 
@@ -105,6 +105,6 @@ If you find a broken link, outdated content, or an unclear instruction, please [
 [badge-chapters]: https://img.shields.io/badge/Chapters-9-315c46?style=flat-square
 [badge-prompts]: https://img.shields.io/badge/AI_prompts-29-315c46?style=flat-square
 [badge-questions]: https://img.shields.io/badge/FAQ-16-315c46?style=flat-square
-[badge-language]: https://img.shields.io/badge/Handbook-%E4%B8%AD%E6%96%87-315c46?style=flat-square
+[badge-language]: https://img.shields.io/badge/Handbook-Chinese-315c46?style=flat-square
 [badge-readme]: https://img.shields.io/badge/README-%E4%B8%AD%E6%96%87%20%2F%20English-315c46?style=flat-square
 [badge-updated]: https://img.shields.io/github/last-commit/DELONG-L/Research-Workflow-2026?style=flat-square&label=Last%20updated&color=315c46
