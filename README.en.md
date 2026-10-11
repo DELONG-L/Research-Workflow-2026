@@ -16,6 +16,8 @@ The handbook introduces ways to use ChatGPT, Skills, Zotero, Git, LaTeX, and Ove
 
 **[Read the handbook →][handbook]** · [Browse all chapters][chapters] · [Search the handbook][search] · [Tools and sources][resources]
 
+[![Nine chapters organized into getting started, developing the research, and collaboration and communication.](previews/reading-map-en.png)][chapters]
+
 [Preview the Chinese-language handbook interface](previews/handbook.jpg)
 
 The website content is currently in Chinese. This repository provides both Chinese and English READMEs.

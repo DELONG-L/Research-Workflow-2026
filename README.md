@@ -16,7 +16,9 @@
 
 **[在线阅读手册 →][handbook]** · [浏览全部章节][chapters] · [站内搜索][search] · [工具与来源][resources]
 
-[![科研工作流手册的在线阅读界面](previews/handbook.jpg)][handbook]
+[![九章科研工作流内容，分为开始工作、推进研究、协作与汇报三个阶段。](previews/reading-map-zh.png)][chapters]
+
+[查看手册的实际阅读界面](previews/handbook.jpg)
 
 网站正文目前为中文；本仓库提供中文和英文两份 README。
 
