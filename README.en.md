@@ -16,6 +16,8 @@ The handbook introduces ways to use ChatGPT, Skills, Zotero, Git, LaTeX, and Ove
 
 **[Read the handbook →][handbook]** · [Browse all chapters][chapters] · [Search the handbook][search] · [Tools and sources][resources]
 
+[![Research workflow handbook reading interface](previews/handbook.jpg)][handbook]
+
 The website content is currently in Chinese. This repository provides both Chinese and English READMEs.
 
 ## Where to start
