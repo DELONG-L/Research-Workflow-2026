@@ -1,91 +1,88 @@
 # How to Start Your Own Research in 2026
 
-[简体中文](README.md) · **English**
+A practical Chinese-language handbook connecting project organization, literature, experiments, writing, and manuscript collaboration. Follow nine chapters across three stages, or start with the research task in front of you.
 
-[![Read online][badge-online]][handbook]
-[![Nine chapters][badge-chapters]][chapters]
-[![29 reusable AI prompts][badge-prompts]][handbook]
-[![16 frequently asked questions][badge-questions]][questions]
-[![Handbook language: Chinese][badge-language]][handbook]
-[![Chinese and English READMEs][badge-readme]](README.md)
-[![Last updated][badge-updated]][commits]
+**[Read →][handbook]** · [Chapters](#chapters) · [Search][search] · [简体中文](README.md)
 
-A Chinese-language reference handbook for research workflows, covering project setup, literature search, experiment design and record keeping, paper writing, version control, revisions, and presentations. Its nine chapters are organized into three stages of research work. You can read them in order or consult a chapter for your current task.
+[![How to Start Your Own Research in 2026: nine chapters grouped into Start, Develop, and Share, shown as a reading route.](previews/readme-cover-en.png)][handbook]
 
-The handbook introduces ways to use ChatGPT, Skills, Zotero, Git, LaTeX, and Overleaf: organizing files, preserving work between sessions, and asking AI to help with specific tasks. It includes practical steps, reusable prompts, sample records, comparison tables, illustrations, and references. Choose the tools and procedures that suit your project; research decisions and verification of source material remain the reader's responsibility.
+[![Nine chapters][badge-chapters]][chapters] [![29 reusable AI prompts][badge-prompts]][handbook] [![16 frequently asked questions][badge-questions]][questions] [![Handbook language: Chinese][badge-language]][handbook]
 
-**[Read the handbook →][handbook]** · [Browse all chapters][chapters] · [Search the handbook][search] · [Tools and sources][resources]
+The handbook is in Chinese. This English README is a guide to its contents.
 
-[![Nine chapters organized into getting started, developing the research, and collaboration and communication.](previews/reading-map-en.png)][chapters]
+## Start with your current task
 
-[Preview the Chinese-language handbook interface](previews/handbook.jpg)
+For a first read, begin with [01 · ChatGPT and Skills][chapter-01], then [02 · Projects and Context Management][chapter-02]. Understand the working modes, then establish consistent locations for materials, code, and manuscripts.
 
-The website content is currently in Chinese. This repository provides both Chinese and English READMEs.
+If you already have a project, choose the task you need to address:
 
-## Where to start
-
-For a first read, begin with [Chapter 01: ChatGPT and Skills][chapter-01] to understand the working modes and tool connections. Then read [Chapter 02: Projects and Context Management][chapter-02] to establish consistent locations for research materials, code, and papers.
-
-If you already have a project, start with the task you need to address:
-
-| Your task | Suggested reading |
+| Your current task | Start here |
 | --- | --- |
-| Set up a research project or resume previous work | [Project directories and records across sessions][chapter-02] |
-| Explore a research direction and organize literature and citations | [Literature and Research Gaps][chapter-03] · [Zotero and References][chapter-04] |
-| Plan an experiment and inspect run records and results | [Experiment Design and Records][chapter-05] |
-| Draft a paper, create figures, compile, and synchronize the manuscript | [Writing and Figures][chapter-06] · [Git and Overleaf][chapter-07] |
-| Address reviewer comments, prepare a presentation, or adjust your workflow | [Review, Revision, and Presentations][chapter-08] · [Adapting Your Workflow][chapter-09] |
+| Set up or resume a project | [02 · Projects and Context][chapter-02] |
+| Find a direction and manage citations | [03 · Literature][chapter-03] · [04 · References][chapter-04] |
+| Plan and track an experiment | [05 · Experiments][chapter-05] |
+| Write, compile, and sync a paper | [06 · Writing][chapter-06] · [07 · Git and Overleaf][chapter-07] |
+| Revise, present, or adapt | [08 · Review and Talks][chapter-08] · [09 · Workflow][chapter-09] |
 
-## The nine chapters
+<a id="chapters"></a>
+## Nine chapters, one research route
 
-### Getting started
+### Getting started · 01–02
 
-| Chapter | Coverage |
+- **[01 · ChatGPT and Skills][chapter-01]**<br>Understand Chat, Work, and Codex modes, local and cloud tasks, and how to select, install, and check Skills, plugins, and tool connections.
+
+- **[02 · Projects and Context Management][chapter-02]**<br>Establish a project directory, organize materials and paper repositories, and preserve records so the next session can continue the work.
+
+### Developing the research · 03–06
+
+- **[03 · Literature and Research Gaps][chapter-03]**<br>Define the question, find and verify sources, compare the closest existing work, record candidate gaps, and plan an initial check.
+
+- **[04 · Zotero and References][chapter-04]**<br>Import literature, verify metadata, manage citation keys, export BibTeX or BibLaTeX, and check citations in the manuscript.
+
+- **[05 · Experiment Design and Records][chapter-05]**<br>Define questions, comparisons, and evaluation methods. Record protocols and analysis plans, then preserve each run and any changes.
+
+- **[06 · Writing and Figures][chapter-06]**<br>Build an outline from research materials, draft and revise within a defined scope, use verified citations, create figures from data, and inspect the layout.
+
+### Collaboration and communication · 07–09
+
+- **[07 · Git and Overleaf][chapter-07]**<br>Set up a paper repository and local LaTeX, inspect remote changes and diffs, compile before synchronization, and resolve conflicts.
+
+- **[08 · Review, Revision, and Presentations][chapter-08]**<br>Identify manuscript issues, prioritize revisions, organize reviewer comments and responses, and prepare presentations from existing research materials.
+
+- **[09 · Adapting Your Workflow][chapter-09]**<br>Identify repeated work and missing records, decide where information belongs, evaluate small changes, and update progress and handover notes.
+
+## Read, find, and put it to use
+
+- **Find a section and keep reading.** Full-text search locates tasks and tools. Chapter menus, page contents, and previous/next links support continuous reading, with expandable navigation on small screens.
+
+- **Bring prompts into your own project.** Expand and copy 29 AI prompts, then replace the placeholders. Each prompt specifies the scope, materials to inspect, and expected result.
+
+- **Learn through concrete examples.** Five chapters contain 16 expandable FAQs, supported by research illustrations, comparison tables, directory layouts, and sample records.
+
+[View the Chinese-language reading interface](previews/handbook.jpg) · [Tools and references][resources]
+
+<details>
+<summary><strong>Which tools and methods are covered?</strong></summary>
+
+| Task | Tools or methods |
 | --- | --- |
-| [01 · ChatGPT and Skills][chapter-01] | Chat, Work, and Codex modes; local and cloud tasks; the roles of Skills, plugins, and tool connections; selecting, installing, and checking Skills. |
-| [02 · Projects and Context Management][chapter-02] | Establishing a project directory before creating tasks, organizing research and paper repositories, preserving context across sessions, and sharing progress with collaborators. |
+| Working with AI | ChatGPT's Chat, Work, and Codex modes, Skills, plugins, and tool connections, with related Claude Code projects. |
+| Organizing projects and records | Research-Workflow-Skills, planning-with-files, project directories, and records across sessions. |
+| Finding and managing literature | Knows, grilling, Zotero, Better BibTeX, source verification, and comparison with existing work. |
+| Writing, figures, and communication | Academic-Paper-Skills, presentation and peer-review Skills, manuscript review, and revision records. |
+| Version control and manuscript collaboration | Git, GitHub, LaTeX, latexmk, and Overleaf, with local compilation, diff inspection, and remote synchronization. |
 
-### Developing the research
+Start with the tools your task needs and adjust as you use them. Consult official documentation and project instructions for installation, available features, and permissions. Links are collected under [tools and sources][resources].
 
-| Chapter | Coverage |
-| --- | --- |
-| [03 · Literature and Research Gaps][chapter-03] | Defining a research question, finding and verifying literature, comparing the closest existing work, recording candidate gaps, and planning an initial check. |
-| [04 · Zotero and References][chapter-04] | Importing literature, verifying metadata, managing citation keys, exporting BibTeX or BibLaTeX files, and checking in-text citations and references. |
-| [05 · Experiment Design and Records][chapter-05] | Defining experimental questions, comparisons, and evaluation methods; recording protocols and analysis plans; running a small initial check; documenting runs and changes. |
-| [06 · Writing and Figures][chapter-06] | Building an outline from research materials, drafting and revising within a defined scope, using verified citations, creating figures from data, and checking the final layout. |
+</details>
 
-### Collaboration and communication
-
-| Chapter | Coverage |
-| --- | --- |
-| [07 · Git and Overleaf][chapter-07] | Connecting a paper repository, setting up local LaTeX, checking remote changes and diffs, compiling before synchronization, and handling conflicts or unintended edits. |
-| [08 · Review, Revision, and Presentations][chapter-08] | Identifying manuscript issues, prioritizing revisions, organizing reviewer comments and responses, checking consistency with the revised paper, and preparing presentations from research materials. |
-| [09 · Adapting Your Workflow][chapter-09] | Identifying repeated work and missing records, deciding where information is maintained, trying and evaluating workflow changes, and updating progress and handover notes. |
-
-## Reading features
-
-- **Full-text search**: Find content by research task, tool name, or keyword and open the relevant chapter or section.
-- **Chapter and page navigation**: Browse all nine chapters, locate sections within a page, and continue through previous and next chapter links. Expandable navigation is also available on small screens.
-- **29 reusable AI prompts**: Expand and copy a prompt, replace its placeholders, and use it in your project. Prompts specify the task scope, materials to inspect, and expected result.
-- **16 frequently asked questions**: Five chapters include expandable Q&A covering working modes, project organization, references, experiments, and manuscript synchronization.
-- **Illustrations, comparison tables, and sample records**: Research illustrations, tool icons, directory examples, and sample records support the practical explanations.
-- **Tools and references**: The [tools and sources][resources] page collects tool and project links. Chapter references provide further reading for each topic.
-
-## Tools and working methods covered
-
-| Task | Tools or methods introduced |
-| --- | --- |
-| Working with AI | ChatGPT's Chat, Work, and Codex modes, Skills, plugins, and tool connections, with links to related Claude Code projects. |
-| Organizing projects and work records | Research-Workflow-Skills, planning-with-files, project directories, and records that support work across sessions. |
-| Finding, reading, and managing literature | Knows, grilling, Zotero, Better BibTeX, source verification, and comparison with existing work. |
-| Writing, figures, and research communication | Academic-Paper-Skills, presentation and peer-review Skills, manuscript review, and revision records. |
-| Version control and manuscript collaboration | Git, GitHub, LaTeX, latexmk, and Overleaf, including local compilation, diff inspection, and remote synchronization. |
-
-Start with the tools needed for your current task and adjust as you use them. Consult official tool documentation and the relevant project instructions for installation, available features, and permissions. Links are collected under [tools and sources][resources].
+Tools and prompts can help with specific tasks. Research decisions, source verification, and the final content remain the reader's responsibility.
 
 ## Questions and suggestions
 
-If you find a broken link, outdated content, or an unclear instruction, please [open an issue][issues]. Include the chapter or section link, describe the problem, and explain what would help. For tool-related questions, include the tool version and the behavior you observed when relevant.
+For a broken link, outdated content, or an unclear step, [open an issue][issues]. Include the chapter or section link and describe the problem. Add the tool version and observed behavior when relevant.
+
+[Start reading][handbook] · [All chapters][chapters] · [Cover notes](previews/visuals.md)
 
 [handbook]: https://delong-l.github.io/Research-Workflow-2026/
 [chapters]: https://delong-l.github.io/Research-Workflow-2026/#chapters
@@ -102,11 +99,7 @@ If you find a broken link, outdated content, or an unclear instruction, please [
 [chapter-08]: https://delong-l.github.io/Research-Workflow-2026/guide/review-sharing/
 [chapter-09]: https://delong-l.github.io/Research-Workflow-2026/guide/your-workflow/
 [issues]: https://github.com/DELONG-L/Research-Workflow-2026/issues
-[commits]: https://github.com/DELONG-L/Research-Workflow-2026/commits/main/
-[badge-online]: https://img.shields.io/badge/Read_online-GitHub_Pages-315c46?style=flat-square&logo=github&logoColor=white
-[badge-chapters]: https://img.shields.io/badge/Chapters-9-315c46?style=flat-square
-[badge-prompts]: https://img.shields.io/badge/AI_prompts-29-315c46?style=flat-square
-[badge-questions]: https://img.shields.io/badge/FAQ-16-315c46?style=flat-square
-[badge-language]: https://img.shields.io/badge/Handbook-Chinese-315c46?style=flat-square
-[badge-readme]: https://img.shields.io/badge/README-%E4%B8%AD%E6%96%87%20%2F%20English-315c46?style=flat-square
-[badge-updated]: https://img.shields.io/github/last-commit/DELONG-L/Research-Workflow-2026?style=flat-square&label=Last%20updated&color=315c46
+[badge-chapters]: https://img.shields.io/badge/Chapters-9-303c66?style=flat-square
+[badge-prompts]: https://img.shields.io/badge/AI_prompts-29-303c66?style=flat-square
+[badge-questions]: https://img.shields.io/badge/FAQ-16-303c66?style=flat-square
+[badge-language]: https://img.shields.io/badge/Handbook-Chinese-303c66?style=flat-square
